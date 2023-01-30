@@ -1,0 +1,25 @@
+2023-01-25T00:45:02.525Z [trabalho-pratico] info: API Started!
+2023-01-25T00:47:19.627Z [trabalho-pratico] info: API Started!
+2023-01-25T00:47:42.463Z [trabalho-pratico] info: API Started!
+2023-01-25T00:48:03.911Z [trabalho-pratico] info: API Started!
+2023-01-25T00:48:49.353Z [trabalho-pratico] info: API Started!
+2023-01-25T00:49:00.065Z [trabalho-pratico] error: POST /marcas - brand.toUpperCase is not a function
+2023-01-25T00:49:43.258Z [trabalho-pratico] error: POST /marcas - brand.toUpperCase is not a function
+2023-01-25T00:50:04.656Z [trabalho-pratico] info: API Started!
+2023-01-25T00:50:47.971Z [trabalho-pratico] error: POST /marcas - brand.toUpperCase is not a function
+2023-01-25T00:51:01.764Z [trabalho-pratico] info: API Started!
+2023-01-25T00:51:24.109Z [trabalho-pratico] info: API Started!
+2023-01-25T00:52:04.798Z [trabalho-pratico] info: API Started!
+2023-01-25T01:00:13.603Z [trabalho-pratico] info: API Started!
+2023-01-25T01:02:38.364Z [trabalho-pratico] info: API Started!
+2023-01-25T01:02:48.042Z [trabalho-pratico] info: API Started!
+2023-01-25T01:02:52.358Z [trabalho-pratico] info: API Started!
+2023-01-25T01:02:54.901Z [trabalho-pratico] info: API Started!
+2023-01-25T01:02:57.547Z [trabalho-pratico] info: API Started!
+2023-01-25T01:03:09.135Z [trabalho-pratico] error: GET /marcas - Cannot create property 'Symbol(level)' on string 'models is not defined'
+2023-01-25T01:03:24.336Z [trabalho-pratico] info: API Started!
+2023-01-25T01:03:26.498Z [trabalho-pratico] info: API Started!
+2023-01-25T01:03:53.569Z [trabalho-pratico] info: API Started!
+2023-01-25T01:04:12.512Z [trabalho-pratico] info: API Started!
+2023-01-25T16:21:47.769Z [trabalho-pratico] info: API Started!
+2023-01-25T16:24:27.399Z [trabalho-pratico] error: POST /marcas - Cannot create property 'Symbol(level)' on string 'Cannot read properties of undefined (reading 'toUpperCase')'
